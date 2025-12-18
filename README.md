@@ -1,4 +1,6 @@
 🛒 E-Commerce Business Analysis Using SQL
+
+
 📌 Project Overview
 
 This project focuses on analyzing a real-world e-commerce database using SQL to understand how an online retail business operates. The analysis explores customer purchasing behavior, product and seller performance, and overall revenue patterns.
